@@ -6,7 +6,7 @@ Este paquete del juego incluye:
 
 🎮 Pong_v1.0.exe	 → El archivo ejecutable principal del juego.
 
-💾 INSTALAR.exe → Script de Python compilado que crea el acceso directo en el Escritorio.
+💾 INSTALLER.exe → Script de Python compilado que crea el acceso directo en el Escritorio.
 
 📄 Pong_v1.0.py → Archivo fuente principal del juego (solo para desarrolladores).
 
@@ -34,7 +34,7 @@ Este paquete del juego incluye:
 ============================
 ❌ No Borres ni Renombres ningun arhchivo.
 
-❌ Ejecución del Instalador: El INSTALAR.exe siempre debe ejecutarse desde la carpeta raíz del juego para que pueda encontrar el ejecutable y el icono correctamente.
+❌ Ejecución del Instalador: El INSTALLER.exe siempre debe ejecutarse desde la carpeta raíz del juego para que pueda encontrar el ejecutable y el icono correctamente.
 
 ❌ Ejecutables: No es necesario ejecutar los archivos .py si no tienes Python instalado. Si lo haces, asegúrate de que todas las librerías (pygame, pathlib, winshell, etc.) estén correctamente instaladas en tu entorno.
 
@@ -42,6 +42,7 @@ Autor: Fabian
 
 Versión: 1.2
 Fecha: Octubre
+
 
 
 
