@@ -13,6 +13,7 @@ Este paquete del juego incluye:
 🔊 Recursos → Todos los archivos de audio (.wav, .mp3) del juego.
 
 🖼️ Recursos → Íconos utilizados en el ejecutable y en el acceso directo.
+=========================================================================
 
 🖥️ Requisitos del Sistema
 
@@ -42,4 +43,5 @@ Autor: Fabian
 
 Versión: 1.2
 Fecha: Octubre
+
 
