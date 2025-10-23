@@ -5,9 +5,13 @@
 Este paquete del juego incluye:
 
 🎮 Pong_v1.0.exe	 → El archivo ejecutable principal del juego.
+
 💾 INSTALAR.exe → Script de Python compilado que crea el acceso directo en el Escritorio.
+
 📄 Pong_v1.0.py → Archivo fuente principal del juego (solo para desarrolladores).
+
 🔊 Recursos → Todos los archivos de audio (.wav, .mp3) del juego.
+
 🖼️ Recursos → Íconos utilizados en el ejecutable y en el acceso directo.
 
 🖥️ Requisitos del Sistema
@@ -38,3 +42,4 @@ Autor: Fabian
 
 Versión: 1.2
 Fecha: Octubre
+
